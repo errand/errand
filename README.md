@@ -22,7 +22,7 @@
 ## Wordpress
 
 - https://www.stadtlabore-deutschland.de/ - Built with **[Timber](https://github.com/timber/timber)** framework. Contain custom [Videocourse](https://www.stadtlabore-deutschland.de/videokurs) section with user progress system.
-- https://moscowchanges.ru/ - NoJquery build. Load More, Pagination, Filtering are made with pure JS.
+- https://moscowchanges.ru/ - HTML -> Twig (WP Timber). NoJquery build. Load More, Pagination, Filtering are made with pure JS.
 
 ## PHP
 - https://github.com/errand/gptbot - simple Telegram bot with integration of ChatGPT
